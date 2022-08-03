@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+/*CSS del título*/
+.title{margin-top: 10%;}
+.title h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 5px 5px rgba(227, 240, 47, 0.5);
+    color: blue;
+    margin-top: 67px;
+} 
+
+/*CSS de las imágenes*/
+
+img{
+    height: 150px;
+    width: 145px;
+    box-shadow: 0 0 15px 0 black;
+}
+
+/*CSS del Texto*/
+p{
+    font-family: 'PT Sans', sans-serif;
+    text-align: justify;
+}
+
+.nombre,.nombre1,.nombre2,.nombre3,.nombre4{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.texto1,.texto3{
+    text-align: right;
+}
+
+/*CSS de la tabla*/
+table{
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -128,7 +128,7 @@ overflow: hidden;
 	}
 
 	nav ul li a{
-		font-size: 18px;
+		font-size: 25px;
 	}
 
 	#check:checked ~ ul{
